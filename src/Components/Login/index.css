@@ -1,0 +1,84 @@
+.error-msg {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ff0b37;
+}
+.website-login-image {
+  height: 400px;
+  width: 450px;
+}
+.form-page-title {
+  font-family: 'Roboto';
+  font-size: 40px;
+  color: #152850;
+}
+.form-page-container {
+  background-color: #fff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 90%;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+.user-input-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-bottom: 30px;
+}
+.label-badge {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #183b56;
+}
+.user-input {
+  height: 50px;
+  width: 300px;
+  border-radius: 10px;
+  border: 1px solid #c3cad9;
+  font-size: 15px;
+  padding-left: 15px;
+}
+.form-button {
+  font-family: 'Roboto';
+  height: 45px;
+  width: 150px;
+  border: none;
+  background-color: #1565d8;
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.main-container {
+  background-color: #152850;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.bank-logo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.login-form-container {
+  background-color: #e0eefe;
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  height: 80%;
+  border-radius: 30px;
+  padding: 15px;
+}
